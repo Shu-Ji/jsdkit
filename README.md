@@ -1,4 +1,4 @@
-# @jsdkit/bridge
+# 即时设计插件开发工具套件
 
 [即时设计](https://js.design/) 开发辅助工具，方便宿主与 iframe 通信。
 
@@ -16,4 +16,4 @@
 
 使您可以像调用本地同步函数一样，进行二者(宿主与iframe)间双向通信。
 
-[阅读详细使用说明](./packages/bridge/README.md)。
+[阅读 2 分钟教程](./packages/bridge/README.md)
