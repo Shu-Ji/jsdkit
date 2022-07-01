@@ -28,7 +28,7 @@ npm 包中包含 umd 文件，你可以下载下来后，添加到工程中：
 首先在 host 中提供一个 createRectangle 方法：
 
 ```typescript
-import {createUiBridge} from '@/lib';
+import {createUiBridge} from '@jsdkit/bridge';
 
 const ui = createUiBridge();
 
@@ -72,7 +72,7 @@ host.changeButtonColor = (color: string) => {
 
 ```typescript
 // 调用 ui 方法
-import {createUiBridge} from '@/lib';
+import {createUiBridge} from '@jsdkit/bridge';
 
 const ui = createUiBridge();
 ui.changeButtonColor('#f00'); // 如果有返回值，也可以使用 await 来接收
