@@ -19,3 +19,11 @@
 ## 使用说明
 
 Bridge 桥接器使用：[阅读 1 分钟教程](./packages/bridge/README.md)
+
+
+
+## Number of historical stars
+![](https://starchart.cc/Shu-Ji/jsdkit.svg)
+
+## Views
+![](http://profile-counter.glitch.me/jsdkit/count.svg)
