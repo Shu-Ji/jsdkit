@@ -1,0 +1,6 @@
+{
+    "name": "jsdkit-bridge-demo",
+    "id": "jsdkit-bridge-demo",
+    "api": "1.0.0",
+    "main": "host.js"
+}
