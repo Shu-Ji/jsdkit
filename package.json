@@ -1,9 +1,7 @@
 {
     "name": "jsdkit",
     "version": "1.0.0",
-    "description": "即时设计开发工具包",
-    "main": "index.js",
-    "author": "https://github.com/Shu-Ji",
+    "description": "即时设计开发工具套件",
     "license": "MIT",
     "scripts": {
         "build": "pnpm -r --filter=./packages/* run build",

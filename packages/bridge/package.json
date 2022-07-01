@@ -1,13 +1,13 @@
 {
     "name": "@jsdkit/bridge",
     "version": "1.0.0",
-    "description": "即时设计开发辅助工具，方便宿主与iframe通信",
+    "description": "即时设计开发辅助工具套件，方便宿主与iframe通信",
     "author": {
         "name": "Finn",
         "url": "https://github.com/Shu-Ji"
     },
     "repository": {
-        "url": "https://github.com/Shu-Ji/bridge"
+        "url": "https://github.com/Shu-Ji/jsdkit"
     },
     "private": false,
     "license": "MIT",
