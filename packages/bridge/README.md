@@ -23,7 +23,7 @@ npm 包中包含 umd 文件，你可以下载下来后，添加到工程中：
 
 ## 使用
 
-### ui 调用 host
+### ui 调用 host 中的方法
 
 首先在 host 中提供一个 createRectangle 方法：
 
@@ -52,7 +52,7 @@ const res = await host.createRectangle(123);
 console.log(res)  // res 即为 host 中 createRectangle 方法的返回值 (true)
 ```
 
-### host 调用 ui
+### host 调用 ui 中的方法
 
 首先在 ui 中提供一个 changeButtonColor 方法：
 
