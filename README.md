@@ -16,4 +16,6 @@
 
 使您可以像调用本地同步函数一样，进行二者(宿主与iframe)间双向通信。
 
-[阅读 2 分钟教程](./packages/bridge/README.md)
+## 使用说明
+
+Bridge 桥接器使用：[阅读 1 分钟教程](./packages/bridge/README.md)
