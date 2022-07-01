@@ -1,6 +1,6 @@
 {
     "name": "@jsdkit/bridge",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "即时设计开发辅助工具套件，方便宿主与iframe通信",
     "keywords": [
         "即时设计",
